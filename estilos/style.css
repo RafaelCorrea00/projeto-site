@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(172, 156, 188);
+    background-color: rgb(251, 244, 195);
 }
 
 main{
@@ -13,4 +13,13 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+a{
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+a:hover{
+    text-decoration: underline;
 }
